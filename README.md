@@ -4,7 +4,7 @@
 - Raw_data: Job postings from Linkedin
 - Analysis.ipynb: Used to do EDA on the job postings, build word clouds, and look at most common words
 - Plots: Word Cloud Plots
-- LInkedin_Scrape: Slide Deck
+- Scrape_Job_Titles: Slide Deck
 - Analysis-Job-Years-Experience: Initial analysis on years of experience (incomplete)
 - Analysis-Rafael: Rafael's analysis
 - Indeed_webscrape: code to scrape Indeed
